@@ -9,7 +9,6 @@ from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score,confusion_matrix
-import seaborn as sns
 
 
 st.title('Streamlit with Machine Learning')
